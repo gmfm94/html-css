@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* Aparelhos deitados (landscape )*/
+
+body {
+    background-image: url('../images/cev-landscape.jpg');
+    background-attachment: fixed;
+    background-position: left bottom;
+}
